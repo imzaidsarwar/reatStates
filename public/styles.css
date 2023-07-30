@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-color: #0cebeb;
+}
+p {
+  font-size: 3rem;
+  font-weight: 900;
+  color: #fff;
+  font-family: sans-serif;
+  letter-spacing: 0.2rem;
+}
+button {
+  background-color: #000;
+  color: #fff;
+  padding: 1rem;
+  font-size: 30px;
+  border: none;
+  border-radius: 10px;
+  margin: 20px;
+  font-weight: 400;
+  letter-spacing: 0.1rem;
+}
